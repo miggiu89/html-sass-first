@@ -1,1 +1,5 @@
-h1 {color: red;}
+$brand_primary: yellow;
+
+h1,p,button{
+    color:$brand_primary;
+}

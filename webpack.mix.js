@@ -1,3 +1,3 @@
 let mix = require('laravel-mix');
 
-mix.sass('src/app.scss','style/');
+mix.sass('src/app.scss','dist/');
